@@ -8,12 +8,14 @@ const remi = {
   role: "Game Developer",
   location: "Thailand",
   learning: ["Unity", "Roblox"],
-  stack: ["TypeScript", "JavaScript", "Rust", "C#", "C++", "Lua"],
-  tools: ["Neovim", "VS Code", "React", "Node.js", "Linux"]
+  languages: ["TypeScript", "JavaScript", "Rust", "C#", "C++", "Lua"],
+  tools: ["Neovim", "VS Code", "Rider", "Rustrover"],
+  stacks: ["React", "Node.js"],
+  os: "Arch Linux"
 }
 ```
 
-## Stack
+## Languages
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -23,10 +25,33 @@ const remi = {
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36" height="36" alt="Lua" /></a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-## Links
+## Tools
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+  </a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" />
+  </a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Rider" title="Rider" height="28" />
+  </a>
+  <a href="https://www.jetbrains.com/rustrover/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="RustRover" title="RustRover" height="28" />
+  </a>
+</p>
+
+## Stacks
+
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+</p>
+
+## Socials
 
 <p align="left">
   <a href="https://github.com/remichan-cute" target="_blank" rel="noreferrer">
