@@ -9,7 +9,7 @@ const remi = {
   location: "Thailand",
   learning: ["Unity", "Roblox"],
   languages: ["TypeScript", "JavaScript", "Rust", "C#", "C++", "Lua"],
-  tools: ["Neovim", "VS Code", "Rider", "Rustrover"],
+  tools: ["Vs code", "Neovim", "Rider", "Rustrover"],
   stacks: ["React", "Node.js"],
   os: "Arch Linux"
 }
