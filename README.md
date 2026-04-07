@@ -10,8 +10,7 @@ const remi = {
   learning: ["Unity", "Roblox"],
   languages: ["TypeScript", "JavaScript", "Rust", "C#", "C++", "Lua"],
   tools: ["VS Code", "Neovim", "Rider", "Rustrover"],
-  stacks: ["React", "Node.js"],
-  os: "Arch Linux"
+  stacks: ["React", "Node.js"]
 }
 ```
 
