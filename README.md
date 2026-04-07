@@ -1,7 +1,7 @@
 # Hi, I'm Remi
 
 Game developer from Thailand.  
-Currently learning Unity, Bevy and Roblox.
+Currently learning Unity and Roblox.
 
 ```ts
 const remi = {
